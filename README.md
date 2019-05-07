@@ -1,2 +1,2 @@
 # soap-wsse-sample
-Delphi SOAP WSSE Security Sample 
+Delphi SOAP WSSE Security Sample for ePttAVM
